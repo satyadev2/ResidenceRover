@@ -38,4 +38,4 @@ Provide step-by-step instructions for setting up your project locally. This shou
 2. **Clone the Repository**: Provide the command to clone your repository.
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:satyadev2/ResidenceRover.git
